@@ -1,0 +1,1 @@
+.blob-svg{position:absolute;width:300px;height:300px;opacity:.6;z-index:0}.blob1{top:-100px;left:-100px}.blob2{bottom:15%;right:-100px}.blob3{top:5%;left:75%}.blob4{bottom:20%;left:30%}@media (max-width: 768px){.blob-svg{width:200px;height:200px}.blob1,.blob2,.blob3,.blob4{top:-50px;left:-50px;bottom:-50px;right:-50px}}
